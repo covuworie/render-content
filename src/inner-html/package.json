@@ -1,0 +1,24 @@
+{
+  "name": "render-content",
+  "version": "1.0.0",
+  "description": "Ways to render HTML content in the browser with javascript / typescript without frameworks",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covuworie/render-content.git"
+  },
+  "author": "covuworie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/covuworie/render-content/issues"
+  },
+  "homepage": "https://github.com/covuworie/render-content#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "typescript": "^3.8.3"
+  }
+}
