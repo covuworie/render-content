@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+li {
+    list-style: none;
+    margin: 2rem 2rem 0  0;
+}
+
+li:last-child {
+    padding-bottom: 4rem;
+}
+
+.card {
+    line-height: 2rem;
+    background-color: #F8F8F8;
+    border: solid 1px #F0F0F0;
+}
+
+.card-content {
+    padding: 1rem;
+}
+
+.name {
+    font-size: 1.5rem;
+}
+
+.nationality {
+    color: #696969;
+}
+
+.position {
+    color: #A9A9A9;
+}
