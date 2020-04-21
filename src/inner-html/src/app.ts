@@ -7,7 +7,7 @@ function createLegendList(legends: LegendInterface[]) {
             <div class="card">
                 <div class="card-content">
                     <div class="name">${legend.name}</div>
-                    <div class="country">${legend.nationality}</div>
+                    <div class="nationality">${legend.nationality}</div>
                     <div class="position">${legend.position}</div>
                 </div>
             </div>
