@@ -1,7 +1,7 @@
 # render-content
 Ways to render HTML content in the browser with javascript / typescript without frameworks
 
-The code in this repository is loosely based on the following blog tutorial which describes the different [ways to render HTML content](https://johnpapa.net/render-html-2/) in the browser using vanilla javascript(typescript in fact) without using front end frameworks or libraries. I follow through and do all the 3 different approaches, although in my opinion the last approach is by far the best one.
+The code in this repository is loosely based on the following blog tutorial which describes the different [ways to render HTML content](https://johnpapa.net/render-html-2/) in the browser using vanilla `javascript` (`typescript` in fact) without using front end frameworks or libraries. They use heroes and I use football (soccer) legends randomly pulled from my simple hard-coded database. I follow through and do all the 3 different approaches, although in my opinion the last approach is by far the best one.
 
 ## Running the code
 
